@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "name": "Lavender Oil",
+      "use": "Relaxation"
+    },
+    {
+      "name": "Lavender Tea",
+      "use": "Sleep Aid"
+    }
+  ]
+}

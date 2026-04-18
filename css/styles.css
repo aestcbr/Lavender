@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f5f0ff;
+    color: #4b3b75;
+    text-align: center;
+}
+
+header {
+    background: #d8c4ff;
+    padding: 15px;
+}
+
+nav a {
+    margin: 10px;
+    color: #6b4eff;
+    text-decoration: none;
+}
+
+button {
+    padding: 10px 20px;
+    background: #a78bfa;
+    border: none;
+    cursor: pointer;
+    color: white;
+}
+
+.gallery {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    background: #ede9fe;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 8px;
+}
